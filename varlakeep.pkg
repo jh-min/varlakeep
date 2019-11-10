@@ -1,0 +1,10 @@
+v 3
+
+d varlakeep
+d Program to keep specified variables and corresponding value labels only
+d Distribution-Date: 5 August 2019
+d
+d plus1@sogang.ac.kr
+
+f varlakeep.ado
+f varlakeep.sthlp
